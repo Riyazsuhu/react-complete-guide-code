@@ -1,4 +1,5 @@
 **/node_modules
-redux-cart/**/node_modules
+redux-cart/API/node_modules
+redux-cart/client/node_modules
 package-lock.json
 .eslintcache
